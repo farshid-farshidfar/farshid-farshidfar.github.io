@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://farshid-farshidfar.github.io/sitemap.xml
