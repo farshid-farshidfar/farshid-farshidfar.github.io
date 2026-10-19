@@ -10,6 +10,8 @@ and non-academic readers.
 - Replace `assets/farshid-farshidfar-cv.pdf` with the latest compiled public CV.
 - Update the dates in the CV panel, footer and `sitemap.xml` together.
 - Keep manuscript status accurate; add preprint links only when publicly available.
+- Manuscripts are in final preparation; the December 2026 arXiv forecast is the
+  author's estimate as of October 2026 and should be revised when needed.
 - Describe machine learning as an interest unless further experience is added.
 
 The CV source and its independent local Git history are not part of this
